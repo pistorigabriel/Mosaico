@@ -1,2 +1,2 @@
 # Mosaico
-Mosaico de Fotos de Satelite - 1º Trabalho FACOM
+Mosaico de Fotos do Satelite TERES - 1º Trabalho FACOM
