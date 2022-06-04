@@ -1,6 +1,11 @@
+#Setando as variáveis
 t = 0
-mainframe = []
+XseM = 0
+YseM = 0
+XidM = 0
+YidM = 0
 
+#Iniciando o loop de imagens, contendo no máximo 100 imagens
 while t<100:
     try:
         #Inserindo as coordenadas de cada nova imagem
@@ -28,5 +33,7 @@ while t<100:
 #Printando o resultado
 print("1")
 print(f"({XseM},{YseM}), ({XidM},{YidM})")
+
+
 
 
