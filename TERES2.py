@@ -28,12 +28,14 @@ while t<100:
             if Yid<YidM:
                 YidM = Yid
             t +=1
-    except ValueError or EOFError:
+    #Exceções
+    except ValueError:
+        pass
+    except EOFError:
         break
 #Printando o resultado
 print("1")
 print(f"({XseM},{YseM}), ({XidM},{YidM})")
-
 
 
 
