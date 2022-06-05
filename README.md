@@ -1,4 +1,4 @@
-👨🏽‍💻# Mosaico
+# Mosaico
 Mosaico de Fotos do Satelite TERES - 1º Trabalho de AlgProg FACOM
 
 ➡️Funcionamento:
