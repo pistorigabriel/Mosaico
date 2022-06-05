@@ -34,7 +34,7 @@ while t<100:
     except EOFError:
         break
 #Printando o resultado
-print("1")
+print(f"1 mosaico MAIOR formado por {t} imagens")
 print(f"({XseM},{YseM}), ({XidM},{YidM})")
 
 
